@@ -1,8 +1,32 @@
-# Ludi
-The Ludicrous Web Proxy Site: Fast, Simple, Small
+# Fracital
+Another website made with the Ultraviolet backend by TitaniumNetwork & caracal-js
 
-<a href="https://ludicrousdev.org/#"><img src="https://raw.githubusercontent.com/LudicrousDevelopment/Ludi/main/ludi.png"></a>
+https://fracital.dev
 
-<a href="https://replit.com/github/LudicrousDevelopment/Ludi"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
-<a href="https://heroku.com/deploy/?template=https://github.com/LudicrousDevelopment/Ludi"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg"></a>
-<a href="https://glitch.com/edit/#!/import/github/LudicrousDevelopment/Ludi"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/glitch.svg"></a>
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=69596646)
+
+# Supports
+- **Any static site**
+- **Discord**
+- **Youtube**
+- **Mobile browsing!**
+- **Spotify**
+- **CAPTCHA/hCAPTCHA**
+- **GeForce NOW (Partially Supported)**
+- **and many more**
+
+# Updates:
+- **New UI updates**
+
+# Bare Server Setup Guide
+If you want to host your own version of **Fracital** follow these steps
+```
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ cd Ultraviolet-Node
+$ npm install
+$ npm start 
+```
+then go to ```static``` delete all files then move all of the ```proxy-main``` files in it
+
+# Run On Replit
+[Click here to go to the Repl.it Setup Guide.](https://github.com/NovaAppsInc/fracital-static/blob/main/README.md)
